@@ -1,2 +1,3 @@
 nginx
 hyperf/hyperf
+bitnami/redis
