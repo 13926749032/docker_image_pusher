@@ -1,3 +1,2 @@
-nginx
 bitnami/redis
 hyperf/hyperf:8.3-alpine-vedge-swoole-slim-v5.1.4
