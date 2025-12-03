@@ -1,1 +1,2 @@
-bitnami/etcd:3.5.9
+golang:1.21-alpine
+alpine:latest
