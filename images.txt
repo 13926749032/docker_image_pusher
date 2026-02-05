@@ -1,1 +1,1 @@
-node:20.13.0
+nginx:alpine
